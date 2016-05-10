@@ -1,29 +1,41 @@
-name: Amicus
-favicon: null
-layout_spectrum: 0.14601
-typography_spectrum: 0.49643
 title: Amicus - For Humanity
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.4375
+  brandStrength: 0.5
+  lightness: 0.6365936
   brandColors:
     - '#152d2b'
     - '#c0cddf'
     - '#6e9bc1'
     - '#007fb0'
     - '#6d5f56'
-  brandStrength: 0.5
-  lightness: 0.25
-  saturation: 0.4375
   rhythmicContrast: 0.5
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Amicus
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.49643
+layout_spectrum: 0.6973019

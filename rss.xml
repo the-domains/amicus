@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Amicus - For Humanity]]></title>
         <description><![CDATA[Amicus - For Humanity]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/amicus/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 16:52:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 19 May 2016 16:59:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/amicus/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d94d94bf-bb98-41d1-9a05-1b3c20840218.jpg">]]></description>
-            <link>undefinedlook-again-at-that-dot-thats-here-thats-home-thats-us/index.html</link>
+            <link>https://thegrid.ai/amicus/look-again-at-that-dot-thats-here-thats-home-thats-us/index.html</link>
             <guid isPermaLink="false">52135dac-29dc-4546-9fba-acd449a3016a</guid>
-            <pubDate>Thu, 19 May 2016 16:52:05 GMT</pubDate>
+            <pubDate>Thu, 19 May 2016 16:59:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
